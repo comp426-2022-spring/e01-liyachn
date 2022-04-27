@@ -47,15 +47,15 @@ hr {
 }
 
 /* 16. Set a style for the submit button with "registerbtn" class */
- {
+.reegisterbtn {
   /* 17. Set the background color to navy using the hex color */
-  
+  background-color: #202A44;
   /* 18. Set the text color to white using the hex color */  
-  
+  color: #FFFFFF;
   padding: 16px 20px;
   margin: 8px 0;
   /* 19. Set it to have no border */
-  
+  border: none;
   cursor: pointer;
   width: 100%;
   opacity: 0.9;
@@ -67,9 +67,9 @@ hr {
 
 a {
   /* 20. Make link text color navy blue (look up the hex code) */
-  color: ;
+  color: #202A44;
   /* 21. Set the text-decoration to none for links */
-  text-decoration: ;
+  text-decoration: none;
 }
 
 /* 22. Set style for links using the :hover pseudoclass */
